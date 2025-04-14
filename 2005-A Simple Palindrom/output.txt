@@ -1,4 +1,4 @@
-ae
-aei
-aaeiou
+ou
+iou
+aeiouu
 aaeeiioouu
